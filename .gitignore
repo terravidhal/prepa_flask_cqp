@@ -1,0 +1,19 @@
+# Ignore the virtual environment directory
+venv/
+env/
+
+# Ignore common Python files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore other development files
+*.env
+*.log
+*.sqlite3
+*.db
+.DS_Store
+.idea/
+.vscode/
